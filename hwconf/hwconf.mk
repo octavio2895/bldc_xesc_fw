@@ -8,6 +8,7 @@ HWSRC =	\
 	hwconf/luna/luna_display_serial.c \
 	hwconf/si8900.c \
 	hwconf/shutdown.c \
+	hwconf/other/tmc6200.c
 
 HWINC = hwconf \
 		hwconf/luna \
