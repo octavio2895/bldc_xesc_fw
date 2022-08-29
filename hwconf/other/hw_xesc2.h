@@ -24,7 +24,7 @@
 
 bool tmc_error(void);
 
-#define HW_NAME					"xESC2"
+#define HW_NAME					"xESC4"
 
 #define HW_MAJOR				2
 #define HW_MINOR				0
