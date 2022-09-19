@@ -18,6 +18,7 @@
  */
 
 #include "conf_general.h"
+#define HW_HAS_TMC6200
 #ifdef HW_HAS_TMC6200
 
 #include "tmc6200.h"
